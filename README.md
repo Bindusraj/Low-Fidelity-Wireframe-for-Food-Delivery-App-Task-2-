@@ -82,4 +82,3 @@ Each step represents a seamless and minimal user journey from selection to purch
 * Understood *user navigation patterns* and how to structure an app’s flow.
 * Learned to use *Figma’s prototyping* to connect screens logically.
 
- as a downloadable `.txt` file (for GitHub upload)?
